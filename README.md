@@ -10,4 +10,4 @@ Atualmente o template monitora os seguintes pools de banco de dados (Datasources
 
 - Gera um gráfico unificado do consumo atual dos pools.
 
-Para informações sobre configuração e instalação do template acesse: https://github.com/rafaelbgil/zfluigmonitorjms/wiki
+Para informações sobre configuração e instalação do template acesse: https://github.com/rafaelbgil/zfluigmonitorpooldb/wiki
